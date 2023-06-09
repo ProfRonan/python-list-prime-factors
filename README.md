@@ -1,4 +1,4 @@
-# Lista de Fatores Primos
+# Lista Fatores Primos
 
 O script principal de vocês deve estar no arquivo `main.py`.
 
