@@ -1,7 +1,8 @@
 """Esse arquivo testa o arquivo main.py"""
 
 import unittest  # para criar o caso de teste
-from main import list_prime_factors, is_prime
+
+from main import is_prime, list_prime_factors
 
 
 class TestFunction(unittest.TestCase):
